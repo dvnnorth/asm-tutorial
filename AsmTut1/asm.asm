@@ -1,6 +1,6 @@
 .code
 SomeFunction proc
-	mov rax, 123
+	mov rax, 43110
 	ret
 SomeFunction endp
 end
